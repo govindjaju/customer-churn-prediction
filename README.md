@@ -85,7 +85,7 @@ pip install -r requirements.txt
 📁 Dataset
 
 Dataset used for this project can be found here:
-(Add your dataset link here)
+(https://raw.githubusercontent.com/govindjaju/customer-churn-prediction/refs/heads/main/Telco-Customer-Churn.csv)
 
 
 ---
